@@ -7,14 +7,12 @@ b = A>5
 
 #Question 6:
 
-def perimetre():
+def perimetre(c):
     return(4*c)
-
-print(perimetre())
+print(perimetre(3))
 
 #Question 7:
 
-def surface():
+def surface(c):
     return(c**2)
-
-print(surface())
+print(surface(3))
