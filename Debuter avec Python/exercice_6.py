@@ -14,9 +14,3 @@ R = 5
 H = 8
 print(V_cylindre(r=R,h=H))
 print(A_cylindre(r=R,h=H))
-
-# if __name__ == "__main__":
-#    R = 5
-#    H = 8
-#    print(V_cylindre(r=R,h=H))
-#    print(A_cylindre(r=R,h=H))
