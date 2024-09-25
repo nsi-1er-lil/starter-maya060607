@@ -1,6 +1,6 @@
 #Exercice 5
 #1. La formule est 2*pi*r
-#2. l'argument est le rayon du cercle, de type integer.
+#2. l'argument est le rayon du cercle, de type float.
 #3: Algorithme complete
 
 r=5
